@@ -25,13 +25,13 @@ Prerequisites:
 
 
 Use:
-	For the SNR calculation and plotting:
+For the SNR calculation and plotting:
 	
-		python PAM_analysis.py
+	python PAM_analysis.py
 	
 	
-	For the PPM signal generator:
+For the PPM signal generator:
 	
-		python PPM_generator.py
+	python PPM_generator.py
 	
 	
