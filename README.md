@@ -1,4 +1,4 @@
-Those repositoty provides tools for analyzing PAM systems and generating PPM signals.
+This repositoty provides tools for analyzing PAM systems and generating PPM signals.
 
 
 PAM_analysis.py
